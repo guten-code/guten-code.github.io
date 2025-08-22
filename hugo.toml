@@ -1,0 +1,4 @@
+baseURL = 'https://guten-code.github.io/'
+languageCode = 'en-us'
+title = 'My German journey'
+theme = 'hugo-clarity'
