@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/svishnoi/Documents/GitHub/language/guten-code.github.io",
+	"sourceRoot": "C:/Users/GURU/Documents/github/guten-code.github.io",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
 		"themes/hugo-clarity/assets/sass/_variables.sass",
