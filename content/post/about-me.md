@@ -1,4 +1,4 @@
----hugo server -D -F
+---
 title: "Über mich"
 date: 2025-08-23
 draft: false
