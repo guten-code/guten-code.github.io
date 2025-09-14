@@ -54,7 +54,7 @@ Partizip II: **gehabt**
 Form: **haben (konjugiert) + gehabt**  
 
 **Beispiele:**  
-- Ich **habe viel Spaß gehabt** beim Musik hören. 🎶  
+- Ich **habe viel** Spaß  beim Musik hören **gehabt**. 🎶  
 - Meine Eltern **haben ein neues Auto gehabt**. 🚗  
 
 ---
@@ -104,7 +104,7 @@ Form: **sein (konjugiert) + gewesen**
 
 **Beispiele:**  
 - Ich **bin schon in Delhi gewesen**. 🏙️  
-- Mein Onkel **ist in Berlin gewesen** für ein CS-Projekt. 💻  
+- Mein Onkel **ist in Berlin** für ein CS-Projekt **gewesen**. 💻  
 
 ---
 
